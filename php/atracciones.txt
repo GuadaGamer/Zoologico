@@ -1,0 +1,5 @@
+Herpentario||
+Acuario|20.7284737|-103.3151328|
+Estacionamiento|20.7284737|-103.3151328
+Safari Masai Mara|20.7288353|-103.3091603,17
+Antartida|20.7261111|-103.3089322
